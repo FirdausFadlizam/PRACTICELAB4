@@ -1,3 +1,2 @@
 public class Hello {
-    System.out.println("HelloHehehmegehe");
-}
+    System.out.println("HelloHehe");
